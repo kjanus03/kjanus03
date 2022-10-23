@@ -10,7 +10,7 @@
 
 <details>
 <summary >
-Python Toolkit for Data Visualization (Expand)
+Python Toolkit for Data Visualization (click to expand)
 </summary>
 
 | Index | Module name |
@@ -25,7 +25,7 @@ Python Toolkit for Data Visualization (Expand)
 |     8| BeautifulSoup4 & Requests |
 |     9| Pillow |
 </details> <details> <summary>
-Currently Learning (Expand)
+Currently Learning (click to expand)
 </summary>
 
 | Index | Language |
