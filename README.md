@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi there :dizzy:
 
-<!--
-**kjanus03/kjanus03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About me:
+
+- :minidisc: **[Using software to visualize data](https://kjanus03.tumblr.com/)**
+- :mortar_board: **Student of Applied Computer Science at Wrocław University of Science and Technology**
+- :snake: **Python Developer**
+
+<details>
+<summary >
+Python Toolkit for Data Visualization (Expand)
+</summary>
+
+| Index | Module name |
+|-----:|-----------|
+|     1| Matplotlib |
+|     2| Seaborn |
+|     3| NumPy |
+|     4| Pandas |
+|     5| Scikit-learn |
+|     6| itertools |
+|     7| collections |
+|     8| BeautifulSoup4 & Requests |
+|     9| Pillow |
+</details> <details> <summary>
+Currently Learning (Expand)
+</summary>
+
+| Index | Language |
+|-----:|-----------|
+|     1| Java |
+|     2| TensorFlow in Python |
+|     3| SQL |
+|     4| C++|
+</details>
