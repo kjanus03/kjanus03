@@ -24,6 +24,7 @@ Python Toolkit for Data Visualization (click to expand)
 |     7| collections |
 |     8| BeautifulSoup4 & Requests |
 |     9| Pillow |
+|     10| Jupter Notebook & Anaconda3|
 </details> <details> <summary>
 Currently Learning (click to expand)
 </summary>
