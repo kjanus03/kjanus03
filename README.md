@@ -33,7 +33,7 @@ Currently Learning (click to expand)
 |-----:|-----------|
 |     1| Java |
 |     2| TensorFlow in Python |
-|     3| Flask in Python |
+|     3| Django web framework in Python |
 |     4| SQL |
 |     5| C++|
 </details>
