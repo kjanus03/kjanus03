@@ -31,7 +31,7 @@ Currently Learning (click to expand)
 
 | Index | Language |
 |-----:|-----------|
-|     1| Java |
+|     1| Java Processing Tool |
 |     2| TensorFlow in Python |
 |     3| Django web framework in Python |
 |     4| SQL |
