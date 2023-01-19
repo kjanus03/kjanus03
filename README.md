@@ -20,8 +20,8 @@ Python Toolkit for Data Visualization (click to expand)
 |     3| NumPy |
 |     4| Pandas |
 |     5| Scikit-learn |
-|     6| itertools |
-|     7| collections |
+|     6| itertools & collections |
+|     7| Folium |
 |     8| BeautifulSoup4 & Requests |
 |     9| Pillow |
 |     10| Jupter Notebook & Anaconda3|
