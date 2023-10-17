@@ -37,3 +37,5 @@ Currently Learning (click to expand)
 |     4| SQL |
 |     5| C++|
 </details>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjanus03&size_weight=0.1&count_weight=0.9&layout=compact&theme=one_dark_pro)
