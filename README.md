@@ -49,11 +49,11 @@ Computer vision project (PyTorch) to detect airplanes in images and classify the
 
 ## 🛠️ Skills & Technologies
 
-* **Languages:** Python, Java, JavaScript (HTML/CSS), C++, PHP, SQL
+* **Languages:** Python, Java, JavaScript (HTML/CSS), C++, PHP, SQL, Typescript
 * **Frameworks & Libraries:**
-  * PyQt5, Flask, MVC architecture, asynchronous web scraping (aiohttp) 🖥️
-  * JavaFX, FXGL (physics & rendering engine), pygame 🎮
-  * NumPy, pandas, matplotlib, seaborn, scikit-learn, PyTorch, OpenCV 🤖
+  * Flask, Spring Boot MVC architecture, React, Vite, asynchronous web scraping (aiohttp) 🖥️
+  * PyQt5, JavaFX, FXGL (physics & rendering engine), pygame 🎮
+  * NumPy, pandas, matplotlib, seaborn, scikit-learn, PyTorch, OpenCV, PyTest, JUnit 🤖
 * **Tools:** Git, Docker, Maven, MongoDB, PostgreSQL, MySQL, XAMPP, UML, Figma
 
 
